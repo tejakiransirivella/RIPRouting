@@ -1,4 +1,4 @@
-# RouterCommunication
+# RIPRouting
 
 This project implements a distance-vector routing protocol called RIP.
 
